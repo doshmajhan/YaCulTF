@@ -7,7 +7,7 @@ Competitors form teams and then work on the challenges together.
 Each challenge is designed so that when the competitor solves it, a small piece of text or "flag" is revealed. The flag is then submitted to a website or scoring engine in exchange for points. The amount of points rewarded is typically relative to the perceived difficulty of the challenge.
 Competitors usually receive about 72 hours (typically the course of a weekend) to solve as many challenges as possible.
 
-The general approach for CTF challenges is to first understand the system, in this case a web application, that you are given. Go through and discover its functionality, what technologies it uses, what other systems it interacts with. Once you have that understanding, then you must think like an attacker! How can you break away from the intended use cases set before you in the application? Think outside the box!
+The general approach for CTF challenges is to first understand the system you are given, in this case it is a web application. Go through and discover its functionality, what technologies it uses and what other systems it interacts with. Once you have that understanding, then you must think like an attacker! How can you break away from the intended use cases set before you in the application? Think outside the box!
 
 Here are a few resources to get you started around tools and tricks you can use when solving CTF challenges:
 - https://book.hacktricks.xyz/welcome/readme - A lot of great tricks for all types of CTF challenges
